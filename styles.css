@@ -1,0 +1,16 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightskyblue;
+}
+
+h1 {
+    color: rgb(64, 182, 255);
+    background-color: white;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.recipe {
+    color: white;
+    font-size: 25px;
+}
